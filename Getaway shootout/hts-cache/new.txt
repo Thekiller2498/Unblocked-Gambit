@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:49:27	458/458	---M-Z	301	error ('Moved%20Permanently')	text/html	date:Tue,%2008%20Mar%202022%2014:49:27%20GMT	http://www.twoplayergames.org/embed/getaway-shootout	C:/Users/speed/Downloads/2player/Unblocked-Gambit/Getaway%20shootout/www.twoplayergames.org/embed/getaway-shootout.0.delayed	(from )
+18:49:28	858/858	---M-Z	200	added ('OK')	text/html	date:Tue,%2008%20Mar%202022%2014:49:28%20GMT	https://www.twoplayergames.org/embed/getaway-shootout	C:/Users/speed/Downloads/2player/Unblocked-Gambit/Getaway%20shootout/www.twoplayergames.org/embed/getaway-shootout.html	(from )
+18:49:28	266/266	---M--	200	added ('OK')	text/plain	date:Tue,%2008%20Mar%202022%2014:49:28%20GMT	https://www.twoplayergames.org/robots.txt		(from )
