@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:54:44	838/838	---M-Z	200	added ('OK')	text/html	date:Tue,%2008%20Mar%202022%2015:54:44%20GMT	https://www.twoplayergames.org/embed/drunken-boxing	C:/Users/speed/Downloads/2player/Unblocked-Gambit/drunkbox/www.twoplayergames.org/embed/drunken-boxing.html	(from )
+19:54:44	266/266	---M--	200	added ('OK')	text/plain	date:Tue,%2008%20Mar%202022%2015:54:44%20GMT	https://www.twoplayergames.org/robots.txt		(from )
